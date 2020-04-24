@@ -1,4 +1,5 @@
 #!/bin/bash
+clear
 sleep 2 
 echo "root@Elliot:~# more readme.txt"
 sleep 1
